@@ -1,0 +1,20 @@
+input[name='fname'] {
+    margin-left: 20px;
+}
+
+input[name='lname'] {
+    margin-left: 14px;
+}
+
+input[name='phone'] {
+    margin-left: 45px;
+}
+
+input[name='street'] {
+    margin-left: 55px;
+}
+
+input[name='city'] {
+    margin-left: 65px;
+}
+
